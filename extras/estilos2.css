@@ -1,0 +1,37 @@
+
+.parrafo{
+    text-align: center;
+    font-size: 30px;
+    padding: 100px;
+    background-color: #111;
+    color: aliceblue;
+
+    
+    
+}
+.tiktok{
+    display: flex;
+    margin-left: 400px;
+    width: 120px;
+    height: 80px;
+    padding: 10px;
+    background-color:cornflowerblue;
+}
+.twitter{
+    display: flex;
+    margin-top: -80px;
+    margin-left: 520px;
+    width: 120px;
+    height: 80px;
+    padding:10px;
+    background-color: brown;
+}
+.twitch{
+    display: flex;
+    margin-top: -80px;
+    margin-left: 640px;
+    width: 120px;
+    height: 80px;
+    padding:10px;
+    background-color:cadetblue;
+}
